@@ -1,0 +1,376 @@
+[
+    {
+        "name": "Pizza Hut",
+        "address": "Attapur",
+        "menu": [
+           "Margherita Pizza",
+            "Pepperoni Pizza",
+            "Veggie Supreme Pizza",
+            "Garlic Bread",
+            "Cheesy Sticks",
+            "Chicken Wings",
+            "BBQ Chicken Pizza",
+            "Farmhouse Pizza",
+            "Tandoori Paneer Pizza",
+            "Mexican Green Wave Pizza",
+            "Cheese Burst Pizza",
+            "Hawaiian Pizza",
+            "Spicy Italian Pizza",
+            "Stuffed Crust Pizza",
+            "Classic Caesar Salad",
+            "Chocolate Lava Cake",
+            "Veg Pasta",
+            "Chicken Pasta",
+            "Soft Drinks",
+            "Mojito"
+        ]
+    },
+    {
+        "name": "KFC",
+        "address": "Gudimalkapur",
+        "menu": [
+            "Hot Wings",
+            "Chicken Popcorn",
+            "Bucket of Chicken",
+            "French Fries",
+            "Krushers",
+            "Rice Bowl",
+            "Chicken Wrap",
+            "Spicy Grilled Chicken",
+            "Smoky Grilled Wings",
+            "Cheese Burst Burger",
+            "Choco Lava Cake",
+            "Veg Rice Bowl",
+            "Peri-Peri Chicken",
+            "Chicken Nuggets",
+            "Chicken Strips",
+            "Veg Strips",
+            "Brownie Sundae",
+            "Soft Drinks",
+            "Mint Mojito"
+        ]
+    },
+    {
+        "name": "Burger King",
+        "address": "M Cube Mall",
+        "menu": [
+            "Whopper",
+            "Veggie Burger",
+            "Cheese Burger",
+            "Chicken Nuggets",
+            "Onion Rings",
+            "Chocolate Shake",
+            "French Fries",
+            "Crispy Chicken Burger",
+            "Double Cheese Burger",
+            "Paneer King Burger",
+            "Chicken Fries",
+            "Bacon Cheeseburger",
+            "Grilled Chicken Sandwich",
+            "Spicy King Burger",
+            "Vegan Whopper",
+            "Mango Smoothie",
+            "Coca-Cola Float",
+            "Ice Cream Sundae",
+            "Milkshake",
+            "Garden Salad"
+        ]
+    },
+    {
+        "name": "Subway",
+        "address": "Humayun Nagar",
+        "menu": [
+            "Veggie Delight Sub",
+            "Chicken Teriyaki Sub",
+            "Tuna Sandwich",
+            "Turkey Breast Sub",
+            "Italian B.M.T. Sub",
+            "Roasted Chicken Sub",
+            "Meatball Marinara Sub",
+            "Paneer Tikka Sub",
+            "BBQ Chicken Sub",
+            "Egg Mayo Sub",
+            "Chicken Ham Sub",
+            "Veggie Patty Sub",
+            "Subway Club",
+            "Turkey & Ham Sub",
+            "Spicy Italian Sub",
+            "Veg Salad",
+            "Caesar Salad",
+            "Double Chocolate Chip Cookie",
+            "Potato Chips",
+            "Soft Drinks"
+        ]
+    },
+    {
+        "name": "The Belgian Waffle Co.",
+        "address": "Somi Reddy Nagar",
+        "menu": [
+            "Classic Belgian Waffle",
+            "Nutella Waffle",
+            "Brownie Waffle",
+            "Banana Waffle",
+            "Strawberry Waffle",
+            "Oreo Waffle",
+            "Blueberry Waffle",
+            "Caramel Waffle",
+            "Peanut Butter Waffle",
+            "Red Velvet Waffle",
+            "Mocha Waffle",
+            "Chocolate Chip Waffle",
+            "Cinnamon Waffle",
+            "Pineapple Waffle",
+            "S'mores Waffle",
+            "Vanilla Milkshake",
+            "Chocolate Milkshake",
+            "Cold Coffee",
+            "Hot Chocolate",
+            "Iced Tea"
+        ]
+    },
+    {
+        "name": "Baskin Robbins - Ice Cream Desserts",
+        "address": "SHANTI NAGAR PARK",
+        "menu": [
+            "Vanilla Ice Cream",
+            "Chocolate Fudge Ice Cream",
+            "Mango Ice Cream",
+            "Strawberry Ice Cream",
+            "Mint Chocolate Chip",
+            "Cookie Dough Ice Cream",
+            "Rocky Road",
+            "Caramel Ice Cream",
+            "Butter Pecan",
+            "Pistachio Ice Cream",
+            "Rainbow Sherbet",
+            "Banana Split",
+            "Brownie Sundae",
+            "Hot Fudge Sundae",
+            "Milkshakes",
+            "Ice Cream Cakes",
+            "Soft Serve Cones",
+            "Mochi Ice Cream",
+            "Affogato",
+            "Coffee Ice Cream"
+        ]
+    },
+    {
+        "name": "Dum Safar Biryani",
+        "address": "COMMERCIAL CENTRE",
+        "menu": [
+            "Chicken Dum Biryani",
+            "Mutton Dum Biryani",
+            "Paneer Tikka Biryani",
+            "Egg Biryani",
+            "Vegetable Biryani",
+            "Hyderabadi Biryani",
+            "Prawn Biryani",
+            "Tandoori Chicken",
+            "Chicken 65",
+            "Mutton Kebab",
+            "Paneer 65",
+            "Butter Naan",
+            "Garlic Naan",
+            "Chicken Tikka",
+            "Fish Fry",
+            "Gulab Jamun",
+            "Raita",
+            "Green Salad",
+            "Coke",
+            "Mint Chutney"
+        ]
+    },
+    {
+        "name": "Daily Kitchen - Homely Meals",
+        "address": "GUMMA KONDA COLONY",
+        "menu": [
+           "Dal Tadka",
+            "Rajma Chawal",
+            "Aloo Paratha",
+            "Paneer Butter Masala",
+            "Jeera Rice",
+            "Mixed Veg Curry",
+            "Kadhi Chawal",
+            "Roti",
+            "Butter Roti",
+            "Matar Paneer",
+            "Chicken Curry",
+            "Fish Curry",
+            "Mutton Curry",
+            "Egg Curry",
+            "Veg Biryani",
+            "Plain Rice",
+            "Curd Rice",
+            "Pickles",
+            "Buttermilk",
+            "Papad"
+        ]
+    },
+    {
+        "name": "Theobroma",
+        "address": "Banjara Hills",
+        "menu": [
+            "Brownies",
+            "Macarons",
+            "Cupcakes",
+            "Mousse Cakes",
+            "Cookies",
+            "Tarts",
+            "Cheesecakes",
+            "Croissants",
+            "Pavlovas",
+            "Chocolates",
+            "Coffee",
+            "Sandwiches",
+            "Quiches",
+            "Waffles",
+            "Milkshakes",
+            "Hot Chocolate",
+            "Fruit Pastries",
+            "Layered Cakes",
+            "Doughnuts",
+            "Breakfast Platter"
+        ]
+    },
+    {
+        "name": "Imperial Multicuisine Restaurant",
+        "address": "Banjara Hills",
+        "menu": [
+            "Biryani",
+            "Chinese",
+            "Indian",
+            "Kebabs",
+            "Tandoor"
+        ]
+    },
+    {
+        "name": "WeFit - Protein Bowls, Salads & Sandwiches",
+        "address": "GUMMA KONDA COLONY",
+        "menu": [
+            "Healthy Food",
+            "Salads",
+            "Keto",
+            "Snacks"
+        ]
+    },
+    {
+        "name": "NH1 Bowls - Highway To North",
+        "address": "Attapur",
+        "menu": [
+            "North Indian",
+            "Punjabi",
+            "Home Food"
+        ]
+    },
+    {
+        "name": "LunchBox - Meals and Thalis",
+        "address": "Ground floor, Mehdipatnam (Behind Mina Hospital)",
+        "menu": [
+            "Biryani",
+            "North Indian",
+            "Punjabi",
+            "Healthy Food",
+            "Desserts",
+            "Beverages"
+        ]
+    },
+    {
+        "name": "Faasos - Wraps, Rolls & Shawarma",
+        "address": "Ground floor, Mehdipatnam (Behind Mina Hospital)",
+        "menu": [
+            "Kebabs",
+            "Fast Food",
+            "Snacks",
+            "American",
+            "Healthy Food",
+            "Desserts",
+            "Beverages"
+        ]
+    },
+    {
+        "name": "Bakingo",
+        "address": "Anand Vihar Apartments",
+        "menu": [
+           "Vanilla Ice Cream",
+            "Chocolate Fudge Ice Cream",
+            "Mango Ice Cream",
+            "Strawberry Ice Cream",
+            "Mint Chocolate Chip",
+            "Cookie Dough Ice Cream",
+            "Rocky Road",
+            "Caramel Ice Cream",
+            "Butter Pecan",
+            "Pistachio Ice Cream",
+            "Rainbow Sherbet",
+            "Banana Split",
+            "Brownie Sundae",
+            "Hot Fudge Sundae",
+            "Milkshakes",
+            "Ice Cream Cakes",
+            "Soft Serve Cones",
+            "Mochi Ice Cream",
+            "Affogato",
+            "Coffee Ice Cream"
+        ]
+    },
+    {
+        "name": "The Biryani Life",
+        "address": "Ground floor, Mehdipatnam (Behind Mina Hospital)",
+        "menu": [
+            "Biryani",
+            "Mughlai",
+            "Lucknowi",
+            "Hyderabadi",
+            "Kebabs",
+            "Desserts",
+            "Beverages"
+        ]
+    },
+    {
+        "name": "The Good Bowl",
+        "address": "Mehdipatnam FC",
+        "menu": [
+            "Biryani",
+            "North Indian",
+            "Pastas",
+            "Punjabi",
+            "Desserts",
+            "Beverages"
+        ]
+    },
+    {
+        "name": "Al Rabea Al Arabi Cafeteria",
+        "address": "Mehdipatnam",
+        "menu": [
+            "Arabian",
+            "Lebanese"
+        ]
+    },
+    {
+        "name": "McDonald's",
+        "address": "Mehdipatnam",
+        "menu": [
+            "Whopper",
+            "Veggie Burger",
+            "Cheese Burger",
+            "Chicken Nuggets",
+            "Onion Rings",
+            "Chocolate Shake",
+            "French Fries",
+            "Crispy Chicken Burger",
+            "Double Cheese Burger",
+            "Paneer King Burger",
+            "Chicken Fries",
+            "Bacon Cheeseburger",
+            "Grilled Chicken Sandwich",
+            "Spicy King Burger",
+            "Vegan Whopper",
+            "Mango Smoothie",
+            "Coca-Cola Float",
+            "Ice Cream Sundae",
+            "Milkshake",
+            "Garden Salad"
+
+        ]
+    }
+]

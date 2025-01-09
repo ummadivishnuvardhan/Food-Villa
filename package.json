@@ -4,7 +4,9 @@
   "description": "Food Ordering Site",
   "scripts": {
     "start": "parcel index.html",
-    "test": "jest"
+    "test": "jest",
+    "build": "parcel build index.html"
+
   },
   "author": "Ummadi Vishnu Vardhan",
   "license": "ISC",

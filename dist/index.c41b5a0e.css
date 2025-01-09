@@ -1,0 +1,111 @@
+.search-container-shimmer {
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+  display: flex;
+}
+
+.search-input-shimmer {
+  background-color: #e0e0e0;
+  border-radius: 25px;
+  width: 60%;
+  padding: 12px 20px;
+  font-size: 16px;
+  position: relative;
+  overflow: hidden;
+}
+
+.search-btn-shimmer {
+  color: #0000;
+  background-color: #e0e0e0;
+  border-radius: 25px;
+  padding: 12px 25px;
+  position: relative;
+  overflow: hidden;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200px 0;
+  }
+
+  100% {
+    background-position: 200px 0;
+  }
+}
+
+.search-input-shimmer, .search-btn-shimmer {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%) 0 0 / 400px 100%;
+  animation: 1.5s infinite shimmer;
+}
+
+.shimmer-line {
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  width: 100%;
+  height: 20px;
+  margin-bottom: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.shimmer-container {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.shimmer-card {
+  background-color: #f6f7f8;
+  border-radius: 10px;
+  width: 300px;
+  margin: 50px;
+  padding: 10px;
+  box-shadow: 0 1px 3px #0000001f;
+}
+
+.shimmer-image {
+  background-color: #e0e0e0;
+  border-radius: 8px;
+  width: 100%;
+  height: 200px;
+  margin-bottom: 8px;
+}
+
+.shimmer-content {
+  width: 100%;
+}
+
+.shimmer-line {
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  height: 25px;
+  margin-bottom: 15px;
+}
+
+.shimmer-line-heading {
+  width: 75%;
+  margin-left: 12.5%;
+}
+
+.shimmer-line-short {
+  width: 20%;
+}
+
+.shimmer-line-long {
+  width: 80%;
+}
+
+.shimmer-line-medium {
+  width: 60%;
+}
+
+.shimmer-line, .shimmer-image {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%) 0 0 / 400px 100%;
+  animation: 1.5s infinite shimmer;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
